@@ -4,6 +4,4 @@ __pycache__/
 *.pyc
 
 dataset/
-model/pneumonia_model.keras
-
 .ipynb_checkpoints/
